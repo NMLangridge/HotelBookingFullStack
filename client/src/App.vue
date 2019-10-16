@@ -36,6 +36,7 @@ export default {
     // create a newData which is a mutation of old data and new info coming in
     // call your BookingService function that updates
     // find the specific one in your this.bookings by index and change that
+
   },
   methods: {
     fetchData(){
